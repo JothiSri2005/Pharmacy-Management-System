@@ -1,6 +1,6 @@
 # Pharmacy Management System
 
-A robust and full-stack Pharmacy Management System developed using C++ (Object-Oriented Programming), MySQL, and XAMPP for local server deployment. The system automates essential pharmacy operations like inventory control, order processing, sales tracking, customer profile management, and supplier coordination.
+A robust Pharmacy Management System developed using C++ (Object-Oriented Programming), MySQL, and XAMPP for local server deployment. The system automates essential pharmacy operations like inventory control, order processing, sales tracking, customer profile management, and supplier coordination.
 
 ---
 
@@ -50,7 +50,7 @@ This project aims to streamline pharmacy workflow through a modular, object-orie
 
 ## 📷 Screenshots
 
-> (Add screenshots from the application running on terminal with MySQL records, or database schema snapshots if available)
+> (From the application running on terminal with MySQL records, and database schema snapshots)
 
 ---
 
