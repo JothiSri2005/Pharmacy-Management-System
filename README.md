@@ -48,10 +48,11 @@ This project aims to streamline pharmacy workflow through a modular, object-orie
 
 ---
 
-## 📷 Screenshots
+## 📄 Project Report
 
-> (From the application running on terminal with MySQL records, and database schema snapshots)
+For detailed documentation, diagrams, code, and explanation of the system:
 
+📎 [Click here to view the full project report (PDF)](./PMS_Project_Report.pdf)
 ---
 
 ## 🏗️ UML Diagrams
